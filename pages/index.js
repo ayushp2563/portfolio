@@ -485,8 +485,8 @@ export default function Home({ publications }) {
                   <Image
                     src={data?.AboutPage?.ImageLink}
                     className='overflow-hidden rounded-md'
-                    width={880}
-                    height={880}
+                    width={400}
+                    height={400}
                     alt={'Image'}
                   />
                 </div>

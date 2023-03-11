@@ -1,52 +1,70 @@
 {
   "Color": "#FF5733",
   "Head": {
-    "title": "Jhon Doe | Frontend Developer & Designer",
-    "NavbarName": "Jhon Doe"
+    "title": "Ayush Prajapati| Frontend Developer & Designer",
+    "NavbarName": "Ayush Prajapati"
   },
   "HomePage": {
-    "name": "Jhon Doe",
-    "Position": ["Position 1", "Position 2", "Position 3", "Position 4"],
+    "name": " Ayush Prajapati",
+    "Position": ["Student", "Web Developer"],
     "description": "I design and build websites that look good, and work well."
   },
   "AboutPage": {
-    "AboutParagraph": "I am a frontend developer and designer with a passion for creating beautiful and user-friendly websites and applications. I have a strong background in both web development and graphic design, and I enjoy using my skills to create stunning websites and interfaces that are easy to use and navigate.In my previous work, I have designed and developed websites for a variety of clients, including small businesses, non-profit organizations, and large corporations. I have also created mobile applications and responsive websites that are compatible with a variety of devices and screen sizes. My goal is always to create websites and applications that are visually appealing and user-friendly, and I believe that my skills and experience make me an excellent frontend developer and designer.",
-    "ImageLink": "https://cdn.vectorstock.com/i/1000x1000/23/81/default-avatar-profile-icon-vector-18942381.webp"
+    "AboutParagraph": "I am a budding web developer with a passion for creating beautiful and functional websites. I have completed courses in React JS and have built a number of personal projects to gain experience in web development. With a keen eye for design and a commitment to delivering high-quality work, I am excited to take on new challenges and grow as a developer.",
+    "ImageLink": "https://ayush-prajapati-portfolio.netlify.app/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96243438%3Fv%3D4&w=1080&q=75"
   },
-  "Skills": ["Html", "Bootstrap", "Figma"],
+  "Skills": ["React JS", "Node JS","HTML","CSS","Javascript","Bootstrap","Firebase" ],
   "Projects": [
     {
-      "title": "Project Title1",
-      "ImageLink": "/",
+      "title": "TODO List",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-10-191630.png",
       "Status": "Completed",
-      "ProjectName": "Project Name1",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 1 ",
+      "ProjectName": "TODO List",
+      "Technologies": ["REACT", "CSS"],
+      "Description": "It is my initial project. Simple TODO List created with the help of React JS.",
+      "DemoLink": "http://todo-app-ayushp2563.vercel.app/"
+    },
+    {
+      "title": "REST COUNTRIES API",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-10-192433.png",
+      "Status": "Completed",
+      "ProjectName": "REST COUNTRIES API",
+      "Technologies": ["REACT","CSS","BOOTSTRAP"],
+      "Description": "It shows 4 continent's country information including their capital,population and time zone with the help of rest countries API.",
+      "DemoLink": "http://rest-countries-api-tawny.vercel.app/"
+    },
+    {
+      "title": "AIRBNB CLONE",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-10-225518.webp",
+      "Status": "Completed",
+      "ProjectName": "AIRBNB Clone",
+      "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT"],
+      "Description": "It is AIRBNB's frontend part's clone.Purpose of this project is to improve my frontend skill.",
+      "DemoLink": "http://20dcs095-airbnb-reactjs.vercel.app/"
+    },
+    {
+      "title": "INSTAGRAM CLONE",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-11-143535.png",
+      "Status": "Completed",
+      "ProjectName": "INSTAGRAM Clone",
+      "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT"],
+      "Description": "It is INSTAGRAM's frontend part.Made using React JS with advanced skills.",
       "DemoLink": ""
     },
     {
-      "title": "Project Title2",
-      "ImageLink": "/",
+      "title": "TRAVELLOG",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-11-144821.png",
       "Status": "Completed",
-      "ProjectName": "Project Name2",
-      "Technologies": ["REACT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 2 ",
-      "DemoLink": ""
-    },
-    {
-      "title": "Project Title3",
-      "ImageLink": "/",
-      "Status": "Working On it",
-      "ProjectName": "Project Name3",
-      "Technologies": ["HTML", "TAILWIND", "REACT", "NEXT"],
-      "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad recusandae eum, perspiciatis amet corrupti at? Voluptates ipsum, doloribus in repudiandae nemo a? Unde accusamus pariatur repudiandae similique. Quod, veniam aliquid! Project Description 3 ",
+      "ProjectName": "TRAVELLOG",
+      "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT","NODE","EXPRESS","MONGODB"],
+      "Description": "MERN Stack project with login,sign up,hotel checking and booking services",
       "DemoLink": ""
     }
   ],
   "Contact": {
-    "Email": "johndoe@gmail.com",
-    "Github": "https://github.com/johndoe",
-    "Twitter": "https://twitter.com/johndoe",
-    "LinkedIn": "https://linkedin.com/in/johndoe"
+    "Email": "ayushprajapati2563@gmail.com",
+    "Github": "https://github.com/ayushp2563",
+    "Twitter": "https://twitter.com/ayushp2563",
+    "LinkedIn": "https://linkedin.com/in/ayush-p-prajapati/"
   }
 }
