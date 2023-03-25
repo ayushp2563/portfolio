@@ -21,7 +21,7 @@
       "Status": "Completed",
       "ProjectName": "TODO List",
       "Technologies": ["REACT", "CSS"],
-      "Description": "It is my initial project. Simple TODO List created with the help of React JS.",
+      "Description": "It is my initial project. Simple TODO List created with update and delete task feature. Made with the help of React JS.",
       "DemoLink": "https://fsd-todolist.vercel.app/"
     },
     {
