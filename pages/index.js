@@ -327,7 +327,7 @@ export default function Home({ publications }) {
                 <li className='z-50 hidden mx-5 list-none lg:inline-block'>
                   <button
                     href='#'
-                    className={`header_link font-semibold transition-all duration-150 ease-in-out ${visibleSection === 'skills'
+                    className={`header_link font-bold transition-all duration-150 ease-in-out ${visibleSection === 'skills'
                       ? 'selected delay-150'
                       : 'opacity-50 hover:opacity-100 border-b-2 border-transparent dark:text-white text-dark'
                       }`}
@@ -451,7 +451,7 @@ export default function Home({ publications }) {
                     text={data.HomePage.Position}
                   />
                 </h2>
-                <p className='w-4/5 text-xl md:w-full'>
+                <p className='w-4/5 text-xxl md:w-full'>
                   {data.HomePage.description}
                 </p>
                 <button

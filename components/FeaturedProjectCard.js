@@ -52,12 +52,12 @@ const FeaturedProjectCard = ({
           {stack?.map((stackItem, i) => (
             <p
               key={i}
-              className={`ml-2 text-sm sm:text-sm font-semibold tracking-wide opacity-100 normal-case text-center`}>
+              className={`ml-2 m-1 text-l l:text-l font-semibold tracking-wide opacity-100 normal-case text-center`}>
               {`${stackItem}`}
             </p>
           ))}
         </div>
-        <p className='text-sm tracking-wide leading-normal'>{description}</p>
+        <p className='text-l tracking-wide leading-normal'>{description}</p>
         <div className='flex'>
           {liveLink !== null ? (
             <Button

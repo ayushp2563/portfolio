@@ -1,7 +1,7 @@
 {
   "Color": "#FF5733",
   "Head": {
-    "title": "Ayush Prajapati| Frontend Developer & Designer",
+    "title": "Ayush Prajapati | Frontend Developer & Designer",
     "NavbarName": "Ayush Prajapati"
   },
   "HomePage": {
@@ -13,16 +13,16 @@
     "AboutParagraph": "I am a budding web developer with a passion for creating beautiful and functional websites. I have completed courses in React JS and have built a number of personal projects to gain experience in web development. With a keen eye for design and a commitment to delivering high-quality work, I am excited to take on new challenges and grow as a developer.",
     "ImageLink": "https://ayush-prajapati-portfolio.netlify.app/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96243438%3Fv%3D4&w=1080&q=75"
   },
-  "Skills": ["React JS", "Node JS","HTML","CSS","Javascript","Bootstrap","Firebase" ],
+  "Skills": ["HTML","CSS","Javascript","Firebase","Bootstrap","React JS", "Node JS","Express JS","MongoDB","Material UI" ],
   "Projects": [
     {
       "title": "TODO List",
-      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-10-191630.png",
+      "ImageLink": "https://i.postimg.cc/7Lr80nMF/TODO-List.png",
       "Status": "Completed",
       "ProjectName": "TODO List",
       "Technologies": ["REACT", "CSS"],
       "Description": "It is my initial project. Simple TODO List created with the help of React JS.",
-      "DemoLink": "http://todo-app-ayushp2563.vercel.app/"
+      "DemoLink": "https://fsd-todolist.vercel.app/"
     },
     {
       "title": "REST COUNTRIES API",
@@ -62,7 +62,7 @@
     }
   ],
   "Contact": {
-    "Email": "ayushprajapati2563@gmail.com",
+    "Email": "ayushprajapati2563@gmail.com ",
     "Github": "https://github.com/ayushp2563",
     "Twitter": "https://twitter.com/ayushp2563",
     "LinkedIn": "https://linkedin.com/in/ayush-p-prajapati/"
