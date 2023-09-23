@@ -13,7 +13,7 @@
     "AboutParagraph": "I am a budding web developer with a passion for creating beautiful and functional websites. I have completed courses in React JS and have built a number of personal projects to gain experience in web development. With a keen eye for design and a commitment to delivering high-quality work, I am excited to take on new challenges and grow as a developer.",
     "ImageLink": "https://ayush-prajapati-portfolio.netlify.app/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F96243438%3Fv%3D4&w=1080&q=75"
   },
-  "Skills": ["HTML","CSS","Javascript","Firebase","Bootstrap","React JS", "Node JS","Express JS","MongoDB","Material UI" ],
+  "Skills": ["HTML","CSS","Javascript","Firebase","Bootstrap","React JS", "Node JS","Express JS","MongoDB","Material UI" ], 
   "Projects": [
     {
       "title": "TODO List",
@@ -49,7 +49,7 @@
       "ProjectName": "INSTAGRAM Clone",
       "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT"],
       "Description": "It is INSTAGRAM's frontend part.Made using React JS with advanced skills.",
-      "DemoLink": ""
+      "DemoLink": "https://github.com/ayushp2563/instagram"
     },
     {
       "title": "TRAVELLOG",
@@ -58,7 +58,16 @@
       "ProjectName": "TRAVELLOG",
       "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT","NODE","EXPRESS","MONGODB"],
       "Description": "MERN Stack project with login,sign up,hotel checking and booking services",
-      "DemoLink": ""
+      "DemoLink": "travellog-green.vercel.app"
+    },
+    {
+      "title": "TRAVELLOG ADMIN",
+      "ImageLink": "https://www.linkpicture.com/q/Screenshot-2023-03-11-144821.png",
+      "Status": "Completed",
+      "ProjectName": "TRAVELLOG ADMIN",
+      "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT","NODE","EXPRESS","MONGODB"],
+      "Description": "MERN Stack project with admin service.",
+      "DemoLink": "travellog-admin.vercel.app"
     }
   ],
   "Contact": {
