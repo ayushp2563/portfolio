@@ -58,7 +58,7 @@
       "ProjectName": "TRAVELLOG",
       "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT","NODE","EXPRESS","MONGODB"],
       "Description": "MERN Stack project with login,sign up,hotel checking and booking services",
-      "DemoLink": "travellog-green.vercel.app"
+      "DemoLink": "https://travellog-green.vercel.app"
     },
     {
       "title": "TRAVELLOG ADMIN",
@@ -67,7 +67,7 @@
       "ProjectName": "TRAVELLOG ADMIN",
       "Technologies": ["HTML", "CSS", "BOOTSTRAP","REACT","NODE","EXPRESS","MONGODB"],
       "Description": "MERN Stack project with admin service.",
-      "DemoLink": "travellog-admin.vercel.app"
+      "DemoLink": "https://travellog-admin.vercel.app"
     }
   ],
   "Contact": {
